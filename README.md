@@ -19,6 +19,9 @@ https://www.britannica.com/topic/Roman-numeral
 You'll notice that multiples of 1000 have a vinculum or bar placed over the numeral. To keep the project simple and not get lost in the minutia of mathematical notation we'll handle multiples of 1000 verbatim. For example 4000 would read MMMM instead of I̅V̅.
 
 You can read more about the vinculum here https://en.wikipedia.org/wiki/Vinculum_(symbol)
+The test suite uses Maven so if you haven't downloaded and configured that please see these docs.
+https://maven.apache.org/install.html
+(You may also need to add the bin directory of the created directory apache-maven-3.3.9 to the PATH environment variable)
 
 ## Getting Started
 
