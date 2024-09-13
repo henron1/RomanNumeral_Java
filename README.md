@@ -45,3 +45,5 @@ java RomanNumeralConverter
 ```
 
 6. profit.
+
+To test the application you can download Postman, Insomnia or a similar program to test the endpoint. 
